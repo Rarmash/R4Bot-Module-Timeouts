@@ -1,0 +1,13 @@
+﻿{
+  "id": "timeouts",
+  "name": "Timeouts",
+  "version": "1.0.0",
+  "entrypoint": "cog",
+  "description": "Timeout tracking module for R4Bot.",
+  "author": "Rarmash",
+  "min_core_version": "2.0",
+  "required_settings": [],
+  "required_services": [
+    "firebase"
+  ]
+}
